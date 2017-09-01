@@ -1,0 +1,3 @@
+package: github.com/TheWizardAndTheWyrd/lambdaengine
+import:
+- package: github.com/Sirupsen/logrus
